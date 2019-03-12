@@ -1,0 +1,17 @@
+.container--addtopmargin {
+    margin-top: 2%;
+}
+
+.card-body__h3 {
+    margin: 20px 0px 15px 0px;
+}
+
+.pencil-icon {
+    background: url("/icons/pencil.svg");
+}
+
+.trash-icon {
+    background: url("/icons/trashcan.svg") no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+}
